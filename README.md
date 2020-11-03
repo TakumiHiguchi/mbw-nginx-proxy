@@ -1,8 +1,6 @@
 # music.branchwith-nginx-proxy
 
 music.branchwithのReverseProxyサーバを立てるやつです。
-## リンク
-[music.branchwith](https://mbw1.herokuapp.com/)
 
 ## 注意
 - dockerが使える環境はご自身でご用意してください。
